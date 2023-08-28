@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @scottdieringer
-- 👀 I’m interested in distributed computing
-- 🌱 I’m currently learning MIT course 6.824-Distributed Computing
-- 💞️ I’m looking to collaborate on any distributed systems open source projects.
+- 👀 I’m interested in zk starks and homomorphic encryption.
 - 📫 How to reach me email at scott_dieringer@berkeley.edu
 
 <!---
