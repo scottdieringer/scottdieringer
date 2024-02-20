@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottdieringer
 - 👀 I’m interested in zk starks, post quantum cryptography and homomorphic encryption.
-- 📫 How to reach me email at scott_dieringer@berkeley.edu
+- 📫 How to reach me email at scottdieringer@tutanota.com
 
 <!---
 scottdieringer/scottdieringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
